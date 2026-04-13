@@ -5,8 +5,6 @@
 # Hi, I'm Filip 👋
 
 - Computer science student
-- I like to build things
-- Always learning
 
 ---
 
