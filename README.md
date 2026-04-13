@@ -34,17 +34,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-</div>
-
----
-
-## Projects
-
-<div align="center">
-  <a href="https://github.com/FilipVrubel/tuime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FilipVrubel&repo=tuime&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/></a>
-  <a href="https://github.com/FilipVrubel/FitTrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FilipVrubel&repo=FitTrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/></a>
-  <a href="https://github.com/FilipVrubel/qupath-extension-scriptlauncher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FilipVrubel&repo=qupath-extension-scriptlauncher&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/></a>
 </div>
 
 ---
